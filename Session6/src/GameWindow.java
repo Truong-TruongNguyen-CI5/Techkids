@@ -11,7 +11,7 @@ import java.awt.image.BufferedImage;
 
 
 /**
- * Created by qhuydtvt on 7/24/2016.
+ * Created by Truong Nguyen 7/24/2016.
  */
 public class GameWindow extends Frame implements Runnable{
     Image background;
